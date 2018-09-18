@@ -1,6 +1,8 @@
 # Spring Boot Demo Example
 
-Learn how to use Spring Boot 2 with Spring Boot -
+## Building a application with Spring Boot, Spring Security, JWT, JPA, MySql, H2, Auditing, Circle CI
+
+Learn how to use Spring Boot 2 with Spring Boot
 
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
 
