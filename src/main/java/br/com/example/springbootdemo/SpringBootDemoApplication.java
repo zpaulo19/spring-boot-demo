@@ -47,5 +47,5 @@ public class SpringBootDemoApplication implements ApplicationRunner {
 			logger.info("Currently active profile - " + profileName.toUpperCase());
 		}
 	}
-
+ 
 }
