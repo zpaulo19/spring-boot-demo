@@ -28,7 +28,8 @@ public class SpringBootDemoApplication implements ApplicationRunner {
 	@Autowired
 	Environment environment;
 	
-
+	// Teste Luiz Oliveira
+	// Exemplo Push
     @PostConstruct
     void init() {
         TimeZone.setDefault(TimeZone.getTimeZone("UTC"));
