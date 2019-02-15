@@ -27,6 +27,7 @@ public class SpringBootDemoApplication implements ApplicationRunner {
 
 	@Autowired
 	Environment environment;
+	
 
     @PostConstruct
     void init() {
