@@ -28,6 +28,7 @@ public class SpringBootDemoApplication implements ApplicationRunner {
 	@Autowired
 	Environment environment;
 	
+	//Teste Pedro Bessa
     @PostConstruct
     void init() {
 		// TODO: Fazer outro metodo
