@@ -29,7 +29,7 @@ public class SpringBootDemoApplication implements ApplicationRunner {
 	Environment environment;
 	
 	// Exemplo Push
-	// Teste Luiz Oliveira
+	// Teste Wesley.Garcia
     @PostConstruct
     void init() {
 		// TODO: Fazer outro metodo
