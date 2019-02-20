@@ -32,6 +32,7 @@ public class SpringBootDemoApplication implements ApplicationRunner {
 	// Exemplo Push
     @PostConstruct
     void init() {
+		// TODO: Fazer outro metodo
         TimeZone.setDefault(TimeZone.getTimeZone("UTC"));
     }
 
